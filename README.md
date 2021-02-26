@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Mustafayev/Project01-Basics/_apis/build/status/rmustafayev.pipelines-java?branchName=master)](https://dev.azure.com/Mustafayev/Project01-Basics/_build/latest?definitionId=11&branchName=master)
 
 # Contributing
 
